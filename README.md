@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Darshan-1820/Leetcode/tree/master/0162-find-peak-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darshan-1820/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Darshan-1820/Leetcode/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darshan-1820/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darshan-1820/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Darshan-1820/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
