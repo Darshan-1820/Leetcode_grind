@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Darshan-1820/Leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Darshan-1820/Leetcode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Darshan-1820/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
